@@ -1,0 +1,9 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\bin\Debug\InterfaceTest.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\bin\Debug\InterfaceTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\bin\Debug\InterfaceTest.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\obj\Debug\InterfaceTest.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\obj\Debug\InterfaceTest.Form1.resources
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\obj\Debug\InterfaceTest.Properties.Resources.resources
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\obj\Debug\InterfaceTest.csproj.GenerateResource.Cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\obj\Debug\InterfaceTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\InterfaceTest\obj\Debug\InterfaceTest.pdb

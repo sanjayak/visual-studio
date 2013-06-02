@@ -1,0 +1,6 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Events\bin\Debug\Events.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Events\bin\Debug\Events.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Events\bin\Debug\Events.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Events\obj\Debug\Events.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Events\obj\Debug\Events.pdb

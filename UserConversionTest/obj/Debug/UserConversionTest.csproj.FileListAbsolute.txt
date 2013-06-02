@@ -1,0 +1,6 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\UserConversionTest\bin\Debug\UserConversionTest.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\UserConversionTest\obj\Debug\UserConversionTest.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\UserConversionTest\bin\Debug\UserConversionTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\UserConversionTest\bin\Debug\UserConversionTest.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\UserConversionTest\obj\Debug\UserConversionTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\UserConversionTest\obj\Debug\UserConversionTest.pdb

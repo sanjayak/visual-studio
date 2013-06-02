@@ -1,0 +1,6 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\IndexersTest\bin\Debug\IndexersTest.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\IndexersTest\bin\Debug\IndexersTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\IndexersTest\bin\Debug\IndexersTest.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\IndexersTest\obj\Debug\IndexersTest.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\IndexersTest\obj\Debug\IndexersTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\IndexersTest\obj\Debug\IndexersTest.pdb

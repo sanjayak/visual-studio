@@ -1,0 +1,6 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\CSharpTutorials.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\CSharpTutorials.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\CSharpTutorials.csprojResolveAssemblyReference.cache

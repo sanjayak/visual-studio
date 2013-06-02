@@ -1,0 +1,6 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\OperatorOverloading\obj\Debug\OperatorOverloading.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

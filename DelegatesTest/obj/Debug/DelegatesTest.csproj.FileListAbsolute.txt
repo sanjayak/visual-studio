@@ -1,0 +1,6 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\DelegatesTest\bin\Debug\DelegatesTest.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\DelegatesTest\bin\Debug\DelegatesTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\DelegatesTest\bin\Debug\DelegatesTest.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\DelegatesTest\obj\Debug\DelegatesTest.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\DelegatesTest\obj\Debug\DelegatesTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\DelegatesTest\obj\Debug\DelegatesTest.pdb

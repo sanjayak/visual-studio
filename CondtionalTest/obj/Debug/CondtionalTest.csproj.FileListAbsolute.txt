@@ -1,0 +1,6 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CondtionalTest\bin\Debug\CondtionalTest.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CondtionalTest\bin\Debug\CondtionalTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CondtionalTest\bin\Debug\CondtionalTest.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CondtionalTest\obj\Debug\CondtionalTest.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CondtionalTest\obj\Debug\CondtionalTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\CondtionalTest\obj\Debug\CondtionalTest.pdb
