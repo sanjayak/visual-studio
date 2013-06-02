@@ -16,6 +16,7 @@ public class TraceTest
             for (int i = 0; i < a.Length; i++)
             {
                 Console.WriteLine("Args[{0}] is [{1}] ", i, a[i]);
+                Console.Write("test");
             }
         }
 
