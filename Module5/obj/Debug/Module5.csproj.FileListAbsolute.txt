@@ -1,0 +1,6 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Module5\bin\Debug\Module5.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Module5\obj\Debug\Module5.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Module5\bin\Debug\Module5.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Module5\bin\Debug\Module5.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Module5\obj\Debug\Module5.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\Module5\obj\Debug\Module5.pdb

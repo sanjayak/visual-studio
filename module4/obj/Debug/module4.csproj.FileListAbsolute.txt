@@ -1,0 +1,5 @@
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\module4\bin\Debug\module4.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\module4\bin\Debug\module4.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\module4\bin\Debug\module4.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\module4\obj\Debug\module4.exe
+I:\My Projects\Visual Studio\CSharpTutorials\CSharpTutorials\module4\obj\Debug\module4.pdb
