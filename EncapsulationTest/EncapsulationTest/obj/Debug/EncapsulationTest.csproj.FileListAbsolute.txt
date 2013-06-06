@@ -1,0 +1,9 @@
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\bin\Debug\EncapsulationTest.exe.config
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\obj\Debug\EncapsulationTest.csprojResolveAssemblyReference.cache
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\obj\Debug\EncapsulationTest.Form1.resources
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\obj\Debug\EncapsulationTest.Properties.Resources.resources
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\obj\Debug\EncapsulationTest.csproj.GenerateResource.Cache
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\bin\Debug\EncapsulationTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\bin\Debug\EncapsulationTest.pdb
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\obj\Debug\EncapsulationTest.exe
+I:\My Projects\Visual Studio\CSharpTutorials\EncapsulationTest\EncapsulationTest\obj\Debug\EncapsulationTest.pdb
